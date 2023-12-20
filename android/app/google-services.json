@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117661123231",
+    "project_id": "techbet-3c7cd",
+    "storage_bucket": "techbet-3c7cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117661123231:android:26f10e1b72b205d64618aa",
+        "android_client_info": {
+          "package_name": "com.example.techbet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIrcNm3aJifJRbbK0lwUspznYsaac1Vrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
