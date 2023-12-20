@@ -1,4 +1,4 @@
-# techbet
+# TechBet
 
 A new Flutter project.
 
